@@ -1,0 +1,23 @@
+{
+  "repo": "wireguard-desktop-deployment-doc",
+  "product": "WireGuard Desktop Deployment Doc",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "wireguard-desktop",
+    "wg-tunnel",
+    "modern-vpn-protocol",
+    "peer-keys",
+    "split-tunnel",
+    "wireguard-setup-failed-fix",
+    "how-to-install-wireguard",
+    "wireguard-windows",
+    "wireguard-desktop-2026",
+    "wireguard-desktop-package"
+  ],
+  "site": "toolix.me"
+}
